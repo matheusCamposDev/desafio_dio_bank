@@ -19,4 +19,7 @@ Para excutar este projeto basta executar o comando `python main.py` na basta ond
     └── utils/
         ├── menu.py <--- laoyt de menu de opções das operações 
         └── operation_messages.py <-- constantes de strings
-    
+
+
+# Tecnologias
+ - Python 3.12
