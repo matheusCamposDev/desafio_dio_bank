@@ -1,0 +1,8 @@
+MSG_ENTER_DEPOSIT_AMOUNT = "Informe o valor do depósito: "
+MSG_ENTER_WITHDRAWAL_AMOUNT = "Informe o valor do saque: "
+FAIL_INVALID_OPERATION = "Operação falhou! O valor informado é inválido."
+FAIL_INSUFFICIENTE_FUNDS = "Operação falhou! Você não tem saldo suficiente."
+FAIL_WITHDRAWAL_AMOUNT_EXCEEDS_LIMIT = "Operação falhou! O valor do saque excede o limite."
+FAIL_ERR_MAX_WITHDRAWALS_REACHED = "Operação falhou! Número máximo de saques excedido."
+FAIL_ERR_INVALID_AMOUNT = "Operação falhou! O valor informado é inválido."
+FAIL_ERR_INVALID_OPERATION = "Operação inválida, por favor selecione novamente a operação desejada."
